@@ -1,10 +1,10 @@
 <?php
 /*
-* Plugin Name: WPacademy Like/Dislike
-* Plugin URI: https://wpacademy.pk
-* Author: WPacademy.PK
-* Author URI: https://wpacademy.pk
-* Description: Simple Post Like & Dislike System.
+* Plugin Name: Marketo
+* Plugin URI: https://marketo.pk
+* Author: Shamaz 
+* Author URI: https://Shamaz.pk
+* Description: Simple Marketing tool
 * Version: 1.0.0
 * License: GPL2
 * License URI:  https://www.gnu.org/licenses/gpl-2.0.html
